@@ -1,0 +1,16 @@
+.para{
+    background-color: #fc6c85;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#first{
+    color: blue;
+    font-size: 36px;
+}
+.para.odd{
+    font-size: 24px;
+}
+#second{
+    background-color: #ddf2d1;
+    font-size: 24px;
+    font-weight: 700;
+}
